@@ -10,3 +10,25 @@
 #### The training dataset can be download from [BaiduYun](https://pan.baidu.com/s/1H829P9qDNw9rZOLwKkuDeA?pwd=qq7s).
 
 ##### *****Our codes are benefited from the project of [OPINE-Net](https://github.com/jianzhangcs/OPINE-Net). Thank the authors of OPINE-Net for sharing their codes. 
+
+## Citation
+If you find our work useful for your research, please cite us:
+```
+@article{wang2024MDGF-Net,
+  title={A Wavelet-Domain Consistency-Constrained Compressive Sensing Framework Based on Memory-Boosted Guidance Filtering},
+  author={Xinlu Wang, Lijun Zhao*, Jinjing Zhang, Anhong Wang, Huihui Bai},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={xx},
+  pages={xx-xx},
+  year={2024},
+  publisher={IEEE}
+}
+@inproceedings{wang2023wdu,
+  title={WDU-Net: Wavelet-Guided Deep Unfolding Network for Image Compressed Sensing Reconstruction},
+  author={Xinlu Wang, Lijun Zhao*, Jinjing Zhang, Yufeng Zhang, Anhong Wang},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={79--91},
+  year={2023},
+  organization={Springer Nature Singapore Singapore}
+}
+```
